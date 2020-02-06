@@ -1,0 +1,18 @@
+<resources>
+    <array name="Gender">
+
+        <item>Select Gender</item>
+
+        <item>Male</item>
+
+        <item>Female</item>
+
+    </array>
+
+    <string name="conti">Continue</string>
+
+    <string name="fullnamehint">Full Name</string>
+
+    <string name="app_name">Dog Partner</string>
+
+</resources>

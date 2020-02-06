@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "182542995876",
+    "firebase_url": "https://dog-s-partner.firebaseio.com",
+    "project_id": "dog-s-partner",
+    "storage_bucket": "dog-s-partner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182542995876:android:d3451751ca8abd332a3131",
+        "android_client_info": {
+          "package_name": "com.example.dogpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182542995876-mmlsjppkdputavspc7q616hd5hhp5cf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dogpartner",
+            "certificate_hash": "0324f856462be6d4f61b03f1941ce3596a7d0aac"
+          }
+        },
+        {
+          "client_id": "182542995876-vq01vekivio5nde58k88m4721rm9bl6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf01LlOOyZzUP8Dag0S3p1VNbBLv6kae0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182542995876-vq01vekivio5nde58k88m4721rm9bl6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
